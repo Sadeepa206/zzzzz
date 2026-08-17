@@ -7,13 +7,6 @@
     "ezCash": {
       "number": "0740952096"
     }
-  },
-  "withdrawals": [
-    {
-      "method": "ezCash",
-      "amount": 10,
-      "date": "2026-08-17T07:10:10.604Z",
-      "status": "Approved"
-    }
+  }
   ]
 }
