@@ -4,7 +4,9 @@
   "balance": 8.87,
   "paymentMethods": {
     "bank": null,
-    "ezCash": null
+    "ezCash": {
+      "number": "0760160063"
+    }
   },
   "withdrawals": [],
   "kycLink": null,
