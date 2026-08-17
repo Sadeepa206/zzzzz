@@ -1,14 +1,25 @@
 {
   "capcutId": "chamuutemplate",
   "gmail": "hmwchamudith@gmail.com",
-  "balance": 8.87,
+  "balance": 0,
   "paymentMethods": {
     "bank": null,
     "ezCash": {
       "number": "0760160063"
     }
   },
-  "withdrawals": [],
+  "withdrawals": [
+    {
+      "method": "ezCash",
+      "amountUsd": 8.87,
+      "feeUsd": 0.17739999999999997,
+      "netUsd": 8.692599999999999,
+      "rate": 332.495758,
+      "netRs": 2890.2526259908,
+      "date": "2026-08-17T12:57:49.752Z",
+      "status": "pending"
+    }
+  ],
   "kycLink": null,
   "kycVerified": true
 }
