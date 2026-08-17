@@ -1,7 +1,7 @@
 {
   "capcutId": "chamuutemplate",
   "gmail": "hmwchamudith@gmail.com",
-  "balance": 0,
+  "balance": 8.87,
   "paymentMethods": {
     "bank": null,
     "ezCash": {
@@ -17,7 +17,7 @@
       "rate": 332.495758,
       "netRs": 2890.2526259908,
       "date": "2026-08-17T12:57:49.752Z",
-      "status": "pending"
+      "status": "rejected"
     }
   ],
   "kycLink": null,
