@@ -1,12 +1,19 @@
 {
   "capcutId": "1234567",
   "gmail": "hmwkakak@gmail.com",
-  "balance": 10,
+  "balance": 0,
   "paymentMethods": {
     "bank": null,
     "ezCash": {
       "number": "0740952096"
     }
   },
-  "withdrawals": []
+  "withdrawals": [
+    {
+      "method": "ezCash",
+      "amount": 10,
+      "date": "2026-08-17T07:10:10.604Z",
+      "status": "pending"
+    }
+  ]
 }
