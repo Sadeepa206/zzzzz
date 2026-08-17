@@ -4,7 +4,9 @@
   "balance": 35.21,
   "paymentMethods": {
     "bank": null,
-    "ezCash": null
+    "ezCash": {
+      "number": "0741897800"
+    }
   },
   "withdrawals": []
 }
