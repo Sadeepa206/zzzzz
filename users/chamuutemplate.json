@@ -7,5 +7,6 @@
     "ezCash": null
   },
   "withdrawals": [],
-  "kycLink": null
+  "kycLink": null,
+  "kycVerified": true
 }
