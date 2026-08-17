@@ -1,7 +1,7 @@
 {
   "capcutId": "janiiitemplate",
   "gmail": "janiduprabhasha00@gmail.com",
-  "balance": 0,
+  "balance": 35.21,
   "paymentMethods": {
     "bank": null,
     "ezCash": {
@@ -17,7 +17,7 @@
       "rate": 332.495758,
       "netRs": 11473.032126396402,
       "date": "2026-08-17T08:15:47.045Z",
-      "status": "pending"
+      "status": "rejected"
     }
   ]
 }
