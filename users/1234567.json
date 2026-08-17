@@ -1,7 +1,7 @@
 {
   "capcutId": "1234567",
   "gmail": "hmwkakak@gmail.com",
-  "balance": 0,
+  "balance": 10,
   "paymentMethods": {
     "bank": null,
     "ezCash": null
