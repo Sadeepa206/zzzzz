@@ -6,5 +6,6 @@
     "bank": null,
     "ezCash": null
   },
-  "withdrawals": []
+  "withdrawals": [],
+  "kycLink": "https://github.com/Sadeepa206/DigitzAdmin/blob/main/style.css"
 }
