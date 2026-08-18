@@ -19,5 +19,6 @@
       "date": "2026-08-17T08:15:47.045Z",
       "status": "rejected"
     }
-  ]
+  ],
+  "kycLink": "https://bybit-prod.web.apac-1.jumio.ai/web/client?baseUrl=https%3A%2F%2Fweb-sdk.apac-1.jumio.ai%2Fwebsdk%2Fv4%2Fapi&authorizationToken=eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAA_5XPPU4FMQwE4LukxpJ_k5iOkpYLIK8Tl1Sg9yTE3d8unIB29Ekz8932_eWzPTcac-Cg7jyst6cWma_rzH1iiFVBHDxA11jgxxKIVCbD2jrt4r-41Es0EdBogmYaeOcAZ8ej91KSeeJb7f_wfNt16o99g33_eleTsrkXSKxzkWtAGBMUEhPtxSLXgb_5SWgabHBod1CxAbE8AVWvghko0X4e57NZCAYBAAA.9sCWCVC6uXI97AlGv97f4J9f5Mn0KEcoI-MxK-xH3dNtm_jyG-SDYnZBK1-bVlae_D1XqzcZxvYxD95dTD9XAg&locale=hi"
 }
