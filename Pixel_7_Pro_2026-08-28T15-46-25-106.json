@@ -1,0 +1,75 @@
+{
+  "collectedAt": "2026-08-28T15:46:25.106Z",
+  "fileName": "Pixel_7_Pro_2026-08-28T15-46-25-106.json",
+  "network": {
+    "ip": "2405:6b00:66:c49e::1",
+    "version": "IPv6",
+    "org": "234, Galle Road, Colombo 4",
+    "country": "Sri Lanka",
+    "region": "Western Province",
+    "city": "Colombo",
+    "timezone": "Asia/Colombo",
+    "latitude": 6.9324747,
+    "longitude": 79.8475878,
+    "source": "ipwho.is"
+  },
+  "device": {
+    "deviceType": "Mobile",
+    "os": "Android",
+    "osVersion": "17.0.0",
+    "browser": "Chrome",
+    "browserVersion": "151.0.0.0",
+    "engine": "Blink",
+    "model": "Pixel 7 Pro",
+    "arch": "Not available",
+    "cpuCores": 8,
+    "deviceMemoryGB": 8,
+    "screen": "450x975",
+    "viewport": "450x850",
+    "pixelRatio": 2.4000000953674316,
+    "touch": true
+  },
+  "browser": {
+    "language": "en-US",
+    "languages": [
+      "en-US",
+      "en"
+    ],
+    "timezone": "Asia/Colombo",
+    "cookiesEnabled": true,
+    "doNotTrack": "Not set",
+    "online": true,
+    "referrer": null,
+    "url": "https://visitors-track.vercel.app/"
+  },
+  "connection": {
+    "supported": true,
+    "type": "cellular",
+    "effectiveType": "4g",
+    "downlinkMbps": 4.1,
+    "rttMs": 250,
+    "saveData": false
+  },
+  "capabilities": {
+    "camera": "prompt",
+    "microphone": "prompt",
+    "geolocation": "granted",
+    "notifications": "prompt",
+    "webgl": true,
+    "webrtc": true,
+    "serviceWorker": true,
+    "localStorage": true,
+    "bluetooth": true,
+    "webShare": true
+  },
+  "geolocation": {
+    "latitude": 6.2646214,
+    "longitude": 80.6764453,
+    "accuracyM": 6.46999979019165,
+    "altitudeM": 15.782554232233366,
+    "headingDeg": 65.63726806640625,
+    "speedMs": 2.2439393997192383,
+    "timestamp": "2026-08-28T15:46:24.967Z"
+  },
+  "meta": {}
+}
