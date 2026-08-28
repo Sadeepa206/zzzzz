@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-08-28T15:07:18.356Z",
+  "collectedAt": "2026-08-28T15:09:44.164Z",
   "network": {
     "ip": "203.189.185.237",
     "version": "IPv4",
@@ -64,14 +64,6 @@
     "gamepad": true,
     "webShare": true
   },
-  "geolocation": {
-    "latitude": 5.966284622615538,
-    "longitude": 80.70828193382678,
-    "accuracyM": 19.05827257847272,
-    "altitudeM": 10.66067336711771,
-    "headingDeg": null,
-    "speedMs": null,
-    "timestamp": "2026-08-28T15:07:16.688Z"
-  },
+  "geolocation": null,
   "meta": {}
 }
