@@ -1,0 +1,69 @@
+{
+  "collectedAt": "2026-08-28T15:07:01.330Z",
+  "network": {
+    "ip": "203.189.185.237",
+    "version": "IPv4",
+    "org": "Hutchison Telecommunications Lanka (Private) Limited",
+    "country": "Sri Lanka",
+    "region": "North Western Province",
+    "city": "Kurunegala",
+    "timezone": "Asia/Colombo",
+    "latitude": 7.4863,
+    "longitude": 80.3623,
+    "source": "ipapi.co"
+  },
+  "device": {
+    "deviceType": "Mobile",
+    "os": "macOS",
+    "osVersion": "Not available",
+    "browser": "Not available",
+    "browserVersion": "Not available",
+    "engine": "WebKit",
+    "model": "Not available",
+    "arch": "Not available",
+    "cpuCores": 4,
+    "deviceMemoryGB": null,
+    "screen": "414x896",
+    "availScreen": "414x896",
+    "viewport": "414x720",
+    "pixelRatio": 2,
+    "colorDepth": 24,
+    "touch": true,
+    "orientation": "portrait-primary"
+  },
+  "browser": {
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/151.0.7922.112 Mobile/15E148 Safari/604.1",
+    "language": "en-GB",
+    "languages": [
+      "en-GB"
+    ],
+    "timezone": "Asia/Colombo",
+    "cookiesEnabled": true,
+    "doNotTrack": "Not set",
+    "online": true,
+    "referrer": null,
+    "url": "https://visitors-track.vercel.app/"
+  },
+  "connection": {
+    "supported": false
+  },
+  "capabilities": {
+    "camera": "prompt",
+    "microphone": "prompt",
+    "geolocation": "prompt",
+    "notifications": "unsupported",
+    "clipboard": true,
+    "webgl": true,
+    "webrtc": true,
+    "serviceWorker": true,
+    "localStorage": true,
+    "sessionStorage": true,
+    "indexedDB": true,
+    "bluetooth": false,
+    "usb": false,
+    "gamepad": true,
+    "webShare": true
+  },
+  "geolocation": null,
+  "meta": {}
+}
