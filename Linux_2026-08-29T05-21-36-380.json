@@ -1,0 +1,67 @@
+{
+  "collectedAt": "2026-08-29T05:21:36.380Z",
+  "fileName": "Linux_2026-08-29T05-21-36-380.json",
+  "network": {
+    "ip": "23.27.145.107",
+    "version": "IPv4",
+    "org": "EGIHosting",
+    "country": "United States",
+    "region": "California",
+    "city": "San Jose",
+    "timezone": "America/Los_Angeles",
+    "latitude": 37.33939,
+    "longitude": -121.89496,
+    "source": "ipapi.co"
+  },
+  "device": {
+    "deviceType": "Desktop",
+    "os": "Linux",
+    "osVersion": "Not available",
+    "browser": "Chrome",
+    "browserVersion": "119.0.0.0",
+    "engine": "Blink",
+    "model": "Not available",
+    "arch": "x86",
+    "cpuCores": 1,
+    "deviceMemoryGB": 4,
+    "screen": "1600x1200",
+    "viewport": "1600x1200",
+    "pixelRatio": 1,
+    "touch": false
+  },
+  "browser": {
+    "language": "en-US@posix",
+    "languages": [
+      "en-US",
+      "en"
+    ],
+    "timezone": "UTC",
+    "cookiesEnabled": true,
+    "doNotTrack": "Not set",
+    "online": true,
+    "referrer": null,
+    "url": "https://visitors-track.vercel.app/"
+  },
+  "connection": {
+    "supported": true,
+    "type": null,
+    "effectiveType": "4g",
+    "downlinkMbps": 10,
+    "rttMs": 0,
+    "saveData": false
+  },
+  "capabilities": {
+    "camera": "prompt",
+    "microphone": "prompt",
+    "geolocation": "prompt",
+    "notifications": "denied",
+    "webgl": true,
+    "webrtc": true,
+    "serviceWorker": true,
+    "localStorage": true,
+    "bluetooth": false,
+    "webShare": false
+  },
+  "geolocation": null,
+  "meta": {}
+}
