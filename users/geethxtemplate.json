@@ -1,7 +1,7 @@
 {
   "capcutId": "geethxtemplate",
   "gmail": "geethvishal450@gmail.com",
-  "balance": 22.51,
+  "balance": 0,
   "paymentMethods": {
     "bank": {
       "accountName": "Geeth Vishal",
@@ -11,7 +11,18 @@
     },
     "ezCash": null
   },
-  "withdrawals": [],
+  "withdrawals": [
+    {
+      "method": "bank",
+      "amountUsd": 22.51,
+      "feeUsd": 0.45020000000000004,
+      "netUsd": 22.059800000000003,
+      "rate": 330.545387,
+      "netRs": 7291.765128142601,
+      "date": "2026-10-12T17:53:30.557Z",
+      "status": "pending"
+    }
+  ],
   "kycLink": null,
   "kycVerified": false,
   "kycPhotoUrl": null
