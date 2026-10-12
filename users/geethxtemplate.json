@@ -1,0 +1,10 @@
+{
+  "capcutId": "geethxtemplate",
+  "gmail": "geethvishal450@gmail.com",
+  "balance": 0,
+  "paymentMethods": {
+    "bank": null,
+    "ezCash": null
+  },
+  "withdrawals": []
+}
