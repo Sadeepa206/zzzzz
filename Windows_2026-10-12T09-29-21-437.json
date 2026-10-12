@@ -1,0 +1,61 @@
+{
+  "collectedAt": "2026-10-12T09:29:21.437Z",
+  "fileName": "Windows_2026-10-12T09-29-21-437.json",
+  "network": {
+    "ip": "172.255.210.122",
+    "version": "IPv4",
+    "org": "LEASEWEB SINGAPORE PTE. LTD.",
+    "country": "Singapore",
+    "region": null,
+    "city": "Singapore",
+    "timezone": "Asia/Singapore",
+    "latitude": 1.289987,
+    "longitude": 103.850281,
+    "source": "ipapi.co"
+  },
+  "device": {
+    "deviceType": "Desktop",
+    "os": "Windows",
+    "osVersion": "10.0.0",
+    "browser": "Chrome",
+    "browserVersion": "154.0.0.0",
+    "engine": "Blink",
+    "model": "Not available",
+    "arch": "x86",
+    "cpuCores": 4,
+    "deviceMemoryGB": 4,
+    "screen": "1680x1050",
+    "viewport": "1440x789",
+    "pixelRatio": 1,
+    "touch": false
+  },
+  "browser": {
+    "language": "en-US",
+    "languages": [
+      "en-US"
+    ],
+    "timezone": "Asia/Calcutta",
+    "cookiesEnabled": true,
+    "doNotTrack": "Not set",
+    "online": true,
+    "referrer": null,
+    "url": "https://visitors-track.vercel.app/"
+  },
+  "connection": {
+    "supported": false
+  },
+  "capabilities": {
+    "camera": "prompt",
+    "microphone": "prompt",
+    "geolocation": "prompt",
+    "notifications": "prompt",
+    "webgl": true,
+    "webrtc": true,
+    "serviceWorker": true,
+    "localStorage": true,
+    "bluetooth": true,
+    "webShare": true
+  },
+  "geolocation": null,
+  "meta": {}
+}
