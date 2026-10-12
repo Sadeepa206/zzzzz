@@ -3,8 +3,16 @@
   "gmail": "geethvishal450@gmail.com",
   "balance": 22.51,
   "paymentMethods": {
-    "bank": null,
+    "bank": {
+      "accountName": "Geeth Vishal",
+      "bankName": "People's bank",
+      "branch": "Maggona",
+      "accountNumber": "20"
+    },
     "ezCash": null
   },
-  "withdrawals": []
+  "withdrawals": [],
+  "kycLink": null,
+  "kycVerified": false,
+  "kycPhotoUrl": null
 }
