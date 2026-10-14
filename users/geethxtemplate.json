@@ -1,7 +1,7 @@
 {
   "capcutId": "geethxtemplate",
   "gmail": "geethvishal450@gmail.com",
-  "balance": 0,
+  "balance": 22.51,
   "paymentMethods": {
     "bank": {
       "accountName": "Geeth Vishal",
@@ -20,7 +20,7 @@
       "rate": 330.545387,
       "netRs": 7291.765128142601,
       "date": "2026-10-12T17:53:30.557Z",
-      "status": "pending"
+      "status": "rejected"
     }
   ],
   "kycLink": null,
